@@ -14,7 +14,7 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 
 ### 📊 Coding Activity
 
-**LeetCode (Problem Solving)**
+**LeetCode (Problem Solving):**
 <p align="left">
   <a href="https://leetcode.com/u/pradeepdiguvidi/">
     <img src="https://leetcard.jacoblin.cool/pradeepdiguvidi?ext=activity" alt="LeetCode Heatmap" width="100%" />
