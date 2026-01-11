@@ -10,15 +10,17 @@
 
 I am a Software Engineer specializing in full-stack development, cloud architecture, and AI integration. I focus on building scalable systems that drive efficiency and revenue.
 
-**LeetCode Activity Snake:**
-<p align="left">
-  <img src="https://leetcode-snake.vercel.app/api/snake?username=pradeepdiguvidi" alt="LeetCode Snake" width="100%" />
-</p>
+---
 
-**GitHub Journey Snake:**
-<br/>
+### 📊 Coding Activity
+
+**LeetCode (Problem Solving):**
+<img src="https://leetcode-snake.vercel.app/api/snake?username=pradeepdiguvidi" alt="LeetCode Snake" width="100%" />
+
+**GitHub (Development):**
 <img src="https://raw.githubusercontent.com/pradeepdn/pradeepdn/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
 
+---
 ### 🛠️ Technical Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
