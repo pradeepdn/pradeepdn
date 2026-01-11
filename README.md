@@ -12,19 +12,16 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 
 ---
 
-### 📊 Coding Activity
-
-**LeetCode (Problem Solving):**
+**LeetCode Activity Heatmap:**
 <p align="left">
   <a href="https://leetcode.com/u/pradeepdiguvidi/">
-    <img src="https://leetcard.jacoblin.cool/pradeepdiguvidi?ext=activity" alt="LeetCode Heatmap" width="100%" />
+    <img src="https://leetcard.jacoblin.cool/pradeepdiguvidi?ext=heatmap" alt="LeetCode Heatmap" width="100%" />
   </a>
 </p>
 
-**GitHub (Development)**
-<p align="left">
-  <img src="https://github.com/pradeepdn/pradeepdn/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" width="100%" />
-</p>
+**GitHub Journey Snake:**
+<br/>
+<img src="https://github.com/pradeepdn/pradeepdn/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" width="100%" />
 
 ---
 ### 🛠️ Technical Skills
