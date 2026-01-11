@@ -8,13 +8,31 @@
 
 **Software Development Engineer | MS in Computer Engineering at San Jose State University**
 
-I am a Software Engineer with a focus on full-stack development, cloud architecture, and AI integration. I specialize in building scalable systems that drive efficiency and revenue.
+I am a Software Engineer specializing in full-stack development, cloud architecture, and AI integration. I focus on building scalable systems that drive efficiency and revenue.
 
 ---
 
-### 🎓 Education
-* **San Jose State University**: Master of Science in Computer Engineering (Expected Dec 2025).
-* **Key Coursework**: Web UI Design, Operating Systems, Data Mining, Algorithms, and Software Security.
+### 📊 Coding Activity & LeetCode
+<p align="left">
+  <a href="https://leetcode.com/u/pradeepdiguvidi/">
+    <img src="https://leetcode-stats-api.herokuapp.com/pradeepdiguvidi" alt="LeetCode Stats" height="150" />
+  </a>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="150" />
+</p>
+
+**GitHub Contribution Journey:**
+![snake gif](https://raw.githubusercontent.com/pradeepdiguvidi/pradeepdiguvidi/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🛠️ Technical Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java, C++, C, Python, JavaScript, TypeScript, SQL, Shell Scripting |
+| **Back-End** | Spring Boot, Spring MVC, Flask, FastAPI, Django, Ruby on Rails |
+| **Front-End** | React.js, Angular, Node.js, jQuery, HTML5/CSS3, Material-UI |
+| **Databases** | AWS DynamoDB, MySQL, MongoDB, PostgreSQL, Redis |
+| **DevOps/Tools** | Docker, Kubernetes, Jenkins, Git, Linux, Kafka |
 
 ---
 
@@ -28,15 +46,6 @@ I am a Software Engineer with a focus on full-stack development, cloud architect
 
 ---
 
-### 🛠️ Technical Skills
-* **Languages**: Java, C++, C, Python, JavaScript, TypeScript, SQL, Shell Scripting.
-* **Back-End**: Spring Boot, Spring MVC, Flask, FastAPI, Django, Ruby on Rails.
-* **Front-End**: React.js, Angular, Node.js, jQuery, HTML5/CSS3, Material-UI.
-* **Databases**: AWS DynamoDB, MySQL, MongoDB, PostgreSQL, Redis.
-* **Tools**: Docker, Kubernetes, Jenkins, Git, Linux.
-
----
-
 ### 📂 Featured Projects
 * **Edu-Genius**: A full-stack AI-powered educational platform built with the MERN stack and GPT-4o-mini integration.
 * **Traffic Accident Prediction**: Applied ML models to analyze urban collision patterns, achieving 96.83% accuracy.
@@ -44,13 +53,9 @@ I am a Software Engineer with a focus on full-stack development, cloud architect
 
 ---
 
-### 📊 LeetCode Progress
-<p align="left">
-  <a href="https://leetcode.com/u/pradeepdiguvidi/">
-    <img src="https://leetcode-stats-api.herokuapp.com/pradeepdiguvidi" alt="LeetCode Stats" height="150" />
-  </a>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="150" />
-</p>
+### 🎓 Education
+* **San Jose State University**: Master of Science in Computer Engineering (Expected Dec 2025).
+* **Key Coursework**: Web UI Design, Operating Systems, Data Mining, Algorithms, and Software Security.
 
 ---
 
