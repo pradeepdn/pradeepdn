@@ -1,5 +1,11 @@
 # Pradeep Diguvidi 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/pradeepdn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:diguvidi.pradeep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://pradeepdn.github.io/pradeepdn-blog/"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat&logo=blogger&logoColor=black" /></a>
+</p>
+
 **Software Development Engineer | MS in Computer Engineering at San Jose State University**
 
 I am a Software Engineer with a focus on full-stack development, cloud architecture, and AI integration. I specialize in building scalable systems that drive efficiency and revenue.
@@ -14,11 +20,11 @@ I am a Software Engineer with a focus on full-stack development, cloud architect
 
 ### 💼 Professional Experience
 **Software Engineer | Tata Consultancy Services (TCS)**
-* Developed a full-stack e-commerce platform using React.js and Spring Boot, driving a 30% increase in online sales.
-* Engineered high-performance backends using Java and Spring MVC, resulting in 30% faster database operations.
+* Developed a full-stack e-commerce platform using **React.js and Spring Boot**, driving a 30% increase in online sales.
+* Engineered high-performance backends using **Java and Spring MVC**, resulting in 30% faster database operations.
 * Led a healthcare scheduling platform development, improving appointment efficiency by 25%.
-* Implemented Redis caching strategies, reducing database load by 50% and improving response times by 35%.
-* Developed ETL pipelines using Apache Kafka and Spring Batch to process 1M+ records daily.
+* Implemented **Redis caching**, reducing database load by 50% and improving response times by 35%.
+* Developed ETL pipelines using **Apache Kafka and Spring Batch** to process 1M+ records daily.
 
 ---
 
@@ -38,14 +44,17 @@ I am a Software Engineer with a focus on full-stack development, cloud architect
 
 ---
 
-### 🏆 Achievements
-* **Innovation Excellence Award**: For reducing processing time by 30%.
-* **Best Performance Award**: For exceeding performance targets by 150% over two consecutive quarters.
-* **Outstanding Achievement in Automation**: For improving system efficiency by 40%.
+### 📊 LeetCode Progress
+<p align="left">
+  <a href="https://leetcode.com/u/pradeepdiguvidi/">
+    <img src="https://leetcode-stats-api.herokuapp.com/pradeepdiguvidi" alt="LeetCode Stats" height="150" />
+  </a>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="150" />
+</p>
 
 ---
 
-### ✍️ Blog & Contact
-* **Blog**: [Read my latest posts](https://pradeepdn.github.io/pradeepdn-blog/)
-* **LinkedIn**: [linkedin.com/in/pradeepdn](https://www.linkedin.com/in/pradeepdn)
-* **Email**: [diguvidi.pradeep@gmail.com](mailto:diguvidi.pradeep@gmail.com)
+### 🏆 Achievements
+* **Innovation Excellence Award**: For reducing processing time by 30%.
+* **Best Performance Award**: For exceeding performance targets by 150%.
+* **Outstanding Achievement in Automation**: For improving system efficiency by 40%.
