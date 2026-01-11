@@ -18,7 +18,8 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 <img src="https://leetcode-snake.vercel.app/api/snake?username=pradeepdiguvidi" alt="LeetCode Snake" width="100%" />
 
 **GitHub (Development):**
-<img src="https://raw.githubusercontent.com/pradeepdn/pradeepdn/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+<br/>
+<img src="https://raw.githubusercontent.com/pradeepdn/pradeepdn/output/github-contribution-grid-snake.svg?v=1" alt="GitHub Snake" width="100%" />
 
 ---
 ### 🛠️ Technical Skills
