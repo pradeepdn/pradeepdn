@@ -21,7 +21,7 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 
 **GitHub Contribution Journey:**
 <br/>
-<img src="https://raw.githubusercontent.com/pradeepdiguvidi/pradeepdiguvidi/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<img src="https://github.com/pradeepdiguvidi/pradeepdiguvidi/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 
 ---
 
