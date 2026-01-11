@@ -12,16 +12,16 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 
 ---
 
-### 📊 Coding Activity & LeetCode
+### 📊 Coding Activity & LeetCode Heat Map
 <p align="left">
   <a href="https://leetcode.com/u/pradeepdiguvidi/">
-    <img src="https://leetcode-stats-api.herokuapp.com/pradeepdiguvidi" alt="LeetCode Stats" height="150" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="170" />
   </a>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="150" />
 </p>
 
 **GitHub Contribution Journey:**
-![snake gif](https://raw.githubusercontent.com/pradeepdiguvidi/pradeepdiguvidi/output/github-contribution-grid-snake.svg)
+<br/>
+<img src="https://raw.githubusercontent.com/pradeepdiguvidi/pradeepdiguvidi/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 ---
 
