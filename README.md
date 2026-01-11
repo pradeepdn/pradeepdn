@@ -12,10 +12,10 @@ I am a Software Engineer specializing in full-stack development, cloud architect
 
 ---
 
-### 📊 Coding Activity & LeetCode Heat Map
+### 📊 LeetCode Activity Heat Map
 <p align="left">
   <a href="https://leetcode.com/u/pradeepdiguvidi/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=pradeepdiguvidi&theme=beach" alt="LeetCode Calendar" height="170" />
+    <img src="https://leetcard.jacoblin.cool/pradeepdiguvidi?ext=activity" alt="LeetCode Heatmap" width="100%" />
   </a>
 </p>
 
