@@ -1,7 +1,7 @@
 # Pradeep Diguvidi 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pradeepdn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pradeepdn"(https://www.linkedin.com/in/pradeepdiguvidi/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:diguvidi.pradeep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://pradeepdn.github.io/pradeepdn-blog/"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat&logo=blogger&logoColor=black" /></a>
 </p>
