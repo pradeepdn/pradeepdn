@@ -8,7 +8,7 @@
 
 **Software Development Engineer | MS in Computer Engineering at San Jose State University**
 
-I am a Software Engineer specializing in full-stack development, cloud architecture, and AI integration. I focus on building scalable systems that drive efficiency and revenue.
+I am a Software Engineer specializing in full-stack AI Application development, cloud architecture, and AI integration. I focus on building scalable systems that drive efficiency and revenue.
 
 ---
 
