@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -18,9 +18,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The 'rx=5' makes the corners so rounded that the squares become circles (snowballs)
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#f39c12&color_dots=#ebedf0,#afe1ee,#77ceda,#3498db,#2980b9&styles=.day{rx:50%;ry:50%;}
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#3c7dd9&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6&styles=.day{clip-path:polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);}
+            dist/github-contribution-grid-snake.svg?color_snake=#f39c12&color_dots=#ebedf0,#afe1ee,#77ceda,#3498db,#2980b9&snk_rx=5&snk_ry=5
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#3c7dd9&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6&snk_rx=5&snk_ry=5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
