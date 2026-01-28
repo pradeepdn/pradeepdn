@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,11 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Light Mode: Winter Blues
-            dist/github-contribution-grid-snake.svg?color_snake=#f39c12&color_dots=#ebedf0,#afe1ee,#77ceda,#3498db,#2980b9
-            
-            # Dark Mode: Snowflake/Star shapes using CSS Clip-Path
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#3c7dd9&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6&styles=.day{clip-path:polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);}
+            dist/github-contribution-grid-snake.svg?color_snake=#f39c12&color_dots=#ebedf0,#afe1ee,#77ceda,#3498db,#2980b9&styles=.day{rx:50%;ry:50%;}
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#3c7dd9&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6&styles=.day{clip-path:polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
