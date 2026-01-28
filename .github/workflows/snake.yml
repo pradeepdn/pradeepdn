@@ -18,7 +18,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # The 'rx=5' makes the corners so rounded that the squares become circles (snowballs)
+          # 'snk_rx=5' turns squares into circles (snowballs)
+          # color_dots are ordered from lightest (0) to darkest (4)
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#f39c12&color_dots=#ebedf0,#afe1ee,#77ceda,#3498db,#2980b9&snk_rx=5&snk_ry=5
             dist/github-contribution-grid-snake-dark.svg?color_snake=#3c7dd9&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6&snk_rx=5&snk_ry=5
