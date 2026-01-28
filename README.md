@@ -23,7 +23,7 @@ I am a Software Engineer specializing in full-stack AI Application development, 
 
 **GitHub Journey (Development):**
 <p align="left">
-  <img src="https://github.com/pradeepdn/pradeepdn/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" width="100%" />
+  <img src="https://github.com/pradeepdn/pradeepdn/blob/output/github-contribution-grid-snake.svg?v=winter1?raw=true" alt="GitHub Snake" width="100%" />
 </p>
 
 ---
